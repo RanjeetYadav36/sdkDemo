@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/fastjson-1.2.55.jar"/>
+	<classpathentry kind="lib" path="libs/ftp4j-1.7.3.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/JavaWebSocket_fat.jar"/>
+	<classpathentry kind="lib" path="libs/lzma.jar"/>
+	<classpathentry kind="lib" path="libs/NovaSdk.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/app/SdkDemo.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/cldrdata.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/nashorn.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/ext/zipfs.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/jce.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/resources.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/rt.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/security/policy/limited/local_policy.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/security/policy/limited/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/security/policy/unlimited/local_policy.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/bundles/SdkDemo/runtime/lib/security/policy/unlimited/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/SdkDemo/SdkDemo.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_202/javafx-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobit/Downloads/openjfx-18.0.2_windows-x64_bin-sdk/javafx-sdk-18.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="output" path="out/production/SdkDemo"/>
+</classpath>
